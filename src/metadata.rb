@@ -4,7 +4,7 @@ maintainer_email 'support@xfusion.com'
 license 'MIT'
 description 'Configure XFUSION iBMC'
 long_description 'Configure XFUSION iBMC using iBMC REST APIs.'
-version '1.2.0'
+version '1.3.0'
 
 chef_version '>= 13.0'
 

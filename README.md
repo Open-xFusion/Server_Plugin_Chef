@@ -55,7 +55,9 @@ This cookbook provides resources for configuring XFUSION iBMC via their APIs. In
 
 ### Chef
 
-- Chef 13.0+
+- Chef 14.12.9
+- Chef 15.14.0
+- Chef 17.10.0
 
 ### Cookbooks
 
